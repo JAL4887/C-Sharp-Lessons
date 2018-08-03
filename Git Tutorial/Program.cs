@@ -11,6 +11,7 @@ namespace Git_Tutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("This is an update to my program");
             Console.ReadKey();
         }
     }
